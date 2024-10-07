@@ -1,0 +1,6 @@
+[submodule "solana-safe-transfer-anchor"]
+	path = solana-safe-transfer-anchor
+	url = https://github.com/MohammedAlabd/solana-safe-transfer-anchor
+[submodule "solana-safe-transfer-web"]
+	path = solana-safe-transfer-web
+	url = https://github.com/MohammedAlabd/solana-safe-transfer-web

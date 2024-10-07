@@ -1,17 +1,4 @@
 # Solana Safe Transfer
 
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-bun install
-```
-
-Then, run the development server:
-
-```bash
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A safer way to transfer Solana tokens, the app will ask users to provide a confirmation code in addition to the wallet
+address before transferring tokens.
